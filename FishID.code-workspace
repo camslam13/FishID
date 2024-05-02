@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "FishID",
+			"path": "."
+		},
+		{
+			"name": "marsTest",
+			"path": "../NASA-Capstone/marsTest"
+		},
+		{
+			"name": "marsTrain",
+			"path": "../NASA-Capstone/marsTrain"
+		},
+		{
+			"name": "moonTest",
+			"path": "../NASA-Capstone/moonTest"
+		},
+		{
+			"name": "moonTrain",
+			"path": "../NASA-Capstone/moonTrain"
+		},
+		{
+			"name": "test",
+			"path": "../NASA-Capstone/test"
+		},
+		{
+			"name": "testingFolder",
+			"path": "../NASA-Capstone/testingFolder"
+		},
+		{
+			"name": "train",
+			"path": "../NASA-Capstone/train"
+		}
+	],
+	"settings": {}
+}
